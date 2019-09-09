@@ -35,21 +35,10 @@ we believe the main factor of success to be the **revenue**
 "why did you select those visualizations and what did you learn from each of them?"
 
 -
--
--
 
 
-
-
-
-
-
-things to analyze:bom.movie_gross.csv:
-1. create a total gross amount analyze top 10 movies - check
-2. analyze top10 grosses in the last 5 yrs -
-
-thigs to analyze in imdb movies: dataframes to use: title.basics, title.principals
-
-- merging dataframes of bom to imdb titles.basics (based on titles), finding top 5 genres and titles in the last 5 years
-
-- merging with title.principals and finding top directors/writers/ actors of those movies
+tconst	original_title	start_year	genres	Horror	Animation	Western	Short	Sci-Fi	Music	...	Talk-Show	Action	Adventure	History	Comedy	movie	production_budget	domestic_gross	worldwide_gross	year
+0	tt0249516	Foodfight!	2012	Action,Animation,Comedy	False	True	False	False	False	False	...	False	True	False	False	True	Foodfight!	45000000	0	73706	2012
+3	tt3844362	The Overnight	2015	Comedy,Mystery	False	False	False	False	False	False	...	False	False	False	False	True	The Overnight	200000	1109808	1165996	2015
+6	tt3872966	On the Road	2013	Documentary	False	False	False	False	False	False	...	False	False	False	False	False	On the Road	25000000	720828	9313302	2013
+10	tt0359950	The Secret Life of Walter Mitty	2013	Adventure,Comedy,Drama	False	False	False	False	False	False	...	False	False	True	False	True	The Secret Life of Walter Mitty	91000000	58236838	187861183	2013
