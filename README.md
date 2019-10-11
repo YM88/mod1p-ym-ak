@@ -1,12 +1,12 @@
 # Ø Introduction
 
 - The work has been done as a data science group project by [Yashar Mansouri](https://github.com/YM88) and [Andrea Koltai](https://github.com/apy444).
-- **Main objective** of the project is to analyse different available movie databases and provide an initial recommendation on the genre and the studios of those genres that are the most profitable. 
+- **Main objective** of the project is to analyse different available movie databases and provide an initial recommendation on the genre and the studios of those genres that are most profitable. 
 - The **key success factor** for this objective is considered not the gross revenues, but the net income values and the net income divided by the production budget. 
 - Needless to say this is an inital analysis and there are so many different factors in releasing a profitable movie. However, defining the genre or the studio creating those genres can be the first key step in a movie production investment.
-- Data cleaning is almost completely done through some simple python functions and pandas libraries. 
+- Data cleaning is almost completely done through simple python functions and pandas libraries. 
 - Merging dataframes and getting descriptive datasets are done using python functions and creating subsets of the joined tables.
-- Duplicate values and NaN values have been dropped through using release year as a key and additional manual input was done to make sure the output is as valid as it can be.
+- Duplicate values and null values have been dropped through using **release year** as a key and additional manual input was done to make sure the output is as valid as it can be.
 - The visualization and the results part provide the output and the recommendations of the analysis.
 - Plots and Visualizations are done using a combination of matplotlib and seaborn libraries.
 - All codes and notes are available on the ```mod1-ym-ak - final code.ipynb``` python notebook file. 
